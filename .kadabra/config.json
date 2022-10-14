@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "run": {
+    "executable": "streamlit",
+    "args": ["run", "main.py"]
+  }
+}
